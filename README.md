@@ -1,0 +1,1 @@
+# Disable-Open-Safe-Files-After-Downloading-Plist-MacOS-Jamf
